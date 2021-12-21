@@ -8,3 +8,7 @@ sum = a+b;
 
 sub = a-b;
 
+//Multiplication feature
+
+mul; = a*b;
+
