@@ -4,3 +4,7 @@ b = 5;
 
 sum = a+b;
 
+//Multiplication feature
+
+mu; = a*b;
+
